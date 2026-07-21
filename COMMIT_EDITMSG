@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   app/globals.css
+#	modified:   app/page.tsx
+#	new file:   components/Benefits.js
+#	new file:   components/FAQ.js
+#	new file:   components/Features.js
+#	new file:   components/Footer.js
+#	new file:   components/Hero.js
+#	new file:   components/Navbar.js
+#	renamed:    public/file.svg -> components/public/file.svg
+#	renamed:    public/globe.svg -> components/public/globe.svg
+#	new file:   components/public/hero.png
+#	renamed:    public/next.svg -> components/public/next.svg
+#	renamed:    public/vercel.svg -> components/public/vercel.svg
+#	renamed:    public/window.svg -> components/public/window.svg
+#
